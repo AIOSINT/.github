@@ -1,0 +1,45 @@
+Mapbox gl js
+https://github.com/soxoj/maigret
+https://github.com/TermuxHackz/X-osint
+https://github.com/VirusTotal/qt-virustotal-uploader
+
+
+
+
+red:
+https://github.com/ggerganov/kbd-audio
+
+
+Maltego – Maps relationships between people, domains, emails, and entities using graph visualization.
+
+Recon-ng – Modular framework to gather, store, and correlate OSINT data from multiple sources.
+
+theHarvester – Collects emails, subdomains, IPs, and hosts from public sources.
+
+SpiderFoot – Automates OSINT collection across hundreds of data sources and correlates results.
+
+Sherlock – Searches for a username across many social media and websites.
+
+Maigret – Advanced username enumeration with detailed profile detection and reports.
+
+WhatsMyName – Checks username availability across platforms using a large dataset.
+
+Amass – Discovers subdomains and maps network infrastructure.
+
+Sublist3r – Finds subdomains using search engines and public sources.
+
+dnsenum – Enumerates DNS records, subdomains, and related infrastructure.
+
+Holehe – Checks which services an email is registered on.
+
+h8mail – Searches for leaked credentials and breaches tied to emails.
+
+Social-Analyzer – Finds profiles across social platforms using usernames or emails.
+
+Twint – Scrapes Twitter data (tweets, users, hashtags) without API access.
+
+ExifTool – Extracts metadata from images, videos, and documents.
+
+FOCA – Analyzes documents to extract metadata and identify infrastructure.
+
+OnionScan – Scans Tor hidden services for vulnerabilities and information leaks.
